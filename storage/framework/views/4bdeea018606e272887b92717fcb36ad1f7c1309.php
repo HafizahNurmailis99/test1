@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\kuyCobaLaravel\resources\views/student/index.blade.php ENDPATH**/ ?>

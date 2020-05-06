@@ -1,0 +1,1 @@
+jijijjij<?php /**PATH C:\xampp\htdocs\kerjaPraktek\resources\views/yes.blade.php ENDPATH**/ ?>
